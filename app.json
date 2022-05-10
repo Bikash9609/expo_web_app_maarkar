@@ -25,7 +25,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.bikash9609.expo_web_app"
     },
     "web": {
       "favicon": "./assets/images/favicon.png"
